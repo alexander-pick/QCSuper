@@ -3,3 +3,4 @@ __pycache__/
 config.py
 build/
 .~lock.*
+src/inputs/adb_bridge/adb_bridge
