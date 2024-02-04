@@ -2,5 +2,7 @@
 __pycache__/
 config.py
 build/
+dist/
+*.egg-info
 .~lock.*
 src/inputs/adb_bridge/adb_bridge
